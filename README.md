@@ -12,7 +12,7 @@
 
 **Targets to achieve**
 
-1. Test a ROS GoPro node in order to get image as well as other data from GoPro. Take a picture wireless/wired (USB) using ROS.
+1. Test a ROS GoPro node in order to get image as well as other data from GoPro. Take a picture wireless/wired (USB) using ROS. [GoPro ROS Node package1](https://github.com/eeynard/ros-gopro)
 2. Test the Thermal FLIR camera using a ROS node. 
 3. Check for Drone-based swarm code on ROS and test if there is some working package. 
 4. Make an app in order to integrate the received GPS coordinates and display it on a phone. 
